@@ -1,7 +1,8 @@
 '''
 
-Used to extract the url of the player with highest batting average
-info from espncricinfo and extract the url of each player.
+Used to extract the url of info on players with highest batting average from cricinfo site.
+It also extracts the url of each players image from the respective info url above.
+This information is needed for one of my educational dashboard project.
 
 '''
 
